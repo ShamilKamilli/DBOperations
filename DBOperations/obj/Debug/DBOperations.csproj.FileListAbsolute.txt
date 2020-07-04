@@ -1,0 +1,6 @@
+C:\Users\SKamilli\source\repos\DBOperations\DBOperations\bin\Debug\DBOperations.dll
+C:\Users\SKamilli\source\repos\DBOperations\DBOperations\bin\Debug\DBOperations.pdb
+C:\Users\SKamilli\source\repos\DBOperations\DBOperations\obj\Debug\DBOperations.csproj.CoreCompileInputs.cache
+C:\Users\SKamilli\source\repos\DBOperations\DBOperations\obj\Debug\DBOperations.dll
+C:\Users\SKamilli\source\repos\DBOperations\DBOperations\obj\Debug\DBOperations.pdb
+C:\Users\SKamilli\source\repos\DBOperations\DBOperations\obj\Debug\DBOperations.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\bin\Debug\DBO.MSSQL.Extensions.dll
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\bin\Debug\DBO.MSSQL.Extensions.pdb
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\bin\Debug\DBOperations.dll
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\bin\Debug\DBOperations.pdb
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\obj\Debug\DBO.MSSQL.Extensions.csprojAssemblyReference.cache
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\obj\Debug\DBO.MSSQL.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\obj\Debug\DBO.MSSQL.Extensions.csproj.CopyComplete
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\obj\Debug\DBO.MSSQL.Extensions.dll
+C:\Users\SKamilli\source\repos\DBOperations\DBO.MSSQL.Extensions\obj\Debug\DBO.MSSQL.Extensions.pdb
